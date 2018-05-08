@@ -1,0 +1,25 @@
+.title{
+    width: 150px;
+    height: 700px;
+    color: white;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+    background-color: rgb(101, 165, 250);
+}
+.content{
+    float: left;
+    padding: 20px;
+}
+div>span:first-child{
+    font-weight: bold;
+    margin-right: 5px;
+}
+div.horizontal{
+    display: inline;
+    margin-right: 20px;
+}
+div.vertical>span{
+    display: block;
+
+}
